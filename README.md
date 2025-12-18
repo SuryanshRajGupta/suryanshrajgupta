@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Raj Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Web+Developer;Mobile+App+Developer;React+%7C+JavaScript+%7C+UI+Focused;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Web+Developer;Mobile+App+Developer;React+%7C+JavaScript+%7C+UI+Focused;Working+at+Extrovert+Information+Technology+Private+Limited" />
 </p>
 
 <p align="center">

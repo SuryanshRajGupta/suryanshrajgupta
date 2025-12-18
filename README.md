@@ -193,3 +193,71 @@
 <p align="center">
   💖 Thanks for visiting — let's build something meaningful!
 </p>
+
+
+## ⚡ Quick Tech Snapshot
+
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, HTML, CSS  
+- **Mobile:** React Native, Expo  
+- **UI:** MUI, Styled Components, Sass  
+- **Tools:** Git, GitHub, Postman  
+
+
+## 🎯 What I’m Looking For
+
+- 💼 **Frontend / Web Developer Intern**
+- 📱 **Mobile App Development Intern**
+- 🚀 Entry-level roles at **Product-based companies & startups**
+- 🧠 Strong interest in **UI, performance & clean code**
+
+### ✅ What I Bring
+- Solid fundamentals in **JavaScript & React**
+- Hands-on experience with **real projects**
+- Clean, readable code & GitHub consistency
+- Strong willingness to learn & adapt quickly
+
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF79C6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prerana-Singh3000/Prerana-Singh3000/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Prerana-Singh3000
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,30 +1,3 @@
-# 👋 Hi, I'm Suryansh Raj Gupta  
-
-💻 **Web Developer | Mobile App Developer | Keen Learner | Tech Enthusiast**
-
----
-
-### 👀 About Me
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
-- 💡 Interested in **Mobile App Development**
-- 🎯 Goal: Become a skilled full stack developer
-- 📍 From **New Delhi, India**
-
-
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/suryanshrajgupta)
-- 📧 Email: suryanshraj2001.com
-
----
-
-✨ *“Learning something new every day.”*
-
 <h1 align="center">Hi 👋, I'm Suryansh Raj Gupta</h1>
 
 <p align="center">
@@ -35,9 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Prerana-Singh3000&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<p align="center">
-  💼 Open to <b>Internships</b> & <b>Junior Developer Roles</b>
-</p>
 
 <!-- ===================== DIVIDER ===================== -->
 <p align="center">
@@ -48,9 +18,8 @@
 
 🌸 Passionate **Web & Mobile App Developer** with strong fundamentals  
 🖤 Love building **clean UI + interactive experiences**  
-🌱 Currently learning **React.js & Machine Learning basics**  
-🎯 Actively looking for **internship / entry-level roles**  
-📍 Lucknow, India  
+🌱 Currently learning **Artificial Intelligence & Machine Learning basics** 
+📍 New Delhi, India  
 
 ✨ *Consistency > Motivation*
 
@@ -90,26 +59,6 @@
 <!-- ===================== DIVIDER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80" />
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Prerana-Singh3000/Analog-Clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerana-Singh3000&repo=Analog-Clock&theme=dracula" />
-  </a>
-  <a href="https://github.com/Prerana-Singh3000/Music-Ocean">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerana-Singh3000&repo=Music-Ocean&theme=dracula" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Prerana-Singh3000/Tic-Tac-Toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerana-Singh3000&repo=Tic-Tac-Toe&theme=dracula" />
-  </a>
-  <a href="https://github.com/Prerana-Singh3000/Animated-Car">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerana-Singh3000&repo=Animated-Car&theme=dracula" />
-  </a>
 </p>
 
 <!-- ===================== DIVIDER ===================== -->
@@ -164,6 +113,7 @@
 
 <p align="center">
   💖 Thanks for visiting — let's build something meaningful!
+  ✨ *“Learning something new every day.”*
 </p>
 
 

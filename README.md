@@ -85,7 +85,7 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&font=Poppins" />
+  <img src="https://leetcard.jacoblin.cool/SuryanshRajGupta?theme=dark&font=Poppins" />
 </p>
 
 <p align="center">
@@ -100,13 +100,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/suryanshrajgupta">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yourusername">
+  <a href="https://www.instagram.com/suryanshrajgupta">
     <img src="https://img.shields.io/badge/Instagram-FF79C6?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/suryanshrajgupt">
     <img src="https://img.shields.io/badge/Twitter-8BE9FD?style=for-the-badge&logo=twitter" />
   </a>
 </p>

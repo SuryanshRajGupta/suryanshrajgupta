@@ -129,3 +129,92 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF79C6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+
+
+<h1 align="center">Hi 👋, I'm Prerana Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=550&lines=Web+Developer;Mobile+App+Learner;React+Enthusiast;Always+Learning+🌸" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=90&section=header" />
+</p>
+
+## 🌸 Tech Stack
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-FFC0CB?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-FF85A2?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-FFC0CB?style=for-the-badge&logo=next.js" />
+</p>
+
+### 📱 Mobile App Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-FF69B4?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-FF85A2?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/Flutter-FFB6C1?style=for-the-badge&logo=flutter" />
+</p>
+
+### 🎨 UI & Tools
+<p>
+  <img src="https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass" />
+  <img src="https://img.shields.io/badge/MUI-FFC0CB?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/Git-FF85A2?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman" />
+</p>
+
+
+## 🌸 Socials
+
+<p>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-FF85A2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+
+<h1 align="center">👨‍💻 Prerana Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=550&lines=Web+Developer;Mobile+App+Developer;React+Native;Code.+Build.+Repeat." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=80&section=header" />
+</p>
+
+## 🖤 Tech Stack
+
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF9C" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF9C" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=00FF9C" />
+</p>

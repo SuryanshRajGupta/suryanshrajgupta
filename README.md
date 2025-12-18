@@ -12,6 +12,30 @@
 
 ---
 
+## 🚀 Featured Projects
+
+✨ **Analog Clock**
+🕒 HTML • CSS • JavaScript
+
+✨ **Music Ocean**
+🎵 Music player with play / pause / next / previous
+
+✨ **Tic Tac Toe Game**
+❌⭕ Interactive JS game
+
+✨ **Animated Car**
+🚗 Pure CSS animation
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🏆 Achievements
+
+---
+
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)

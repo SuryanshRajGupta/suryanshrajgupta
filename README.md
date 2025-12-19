@@ -18,7 +18,7 @@
 
 🌸 Passionate **Web & Mobile App Developer** with strong fundamentals  
 🖤 Love building **clean UI + interactive experiences**  
-🌱 Currently learning **Artificial Intelligence & Machine Learning basics** 
+🌱 Currently learning **Artificial Intelligence & Machine Learning basics**
 📍 New Delhi, India  
 
 ✨ *Consistency > Motivation*

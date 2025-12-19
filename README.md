@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prerana-Singh3000&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=suryanshrajgupta&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 
@@ -69,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prerana-Singh3000&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prerana-Singh3000&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suryanshrajgupta&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshrajgupta&theme=dracula" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerana-Singh3000&layout=compact&theme=dracula" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshrajgupta&layout=compact&theme=dracula" />
 </p>
 
 <!-- ===================== DIVIDER ===================== -->

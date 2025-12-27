@@ -54,16 +54,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,firebase" />
 </p>
 
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80" />
-</p>
-
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bd93f9,50:ff79c6,100:50fa7b&height=70" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,28 +61,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshrajgupta&theme=dracula" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshrajgupta&layout=compact&theme=dracula" />
-</p>
-
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80" />
-</p>
-
 ## 🧠 Coding Profiles
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SuryanshRajGupta?theme=dark&font=Poppins" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforcesusername&theme=dark" />
-</p>
-
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70" />
 </p>
 
 ## 🌐 Connect With Me

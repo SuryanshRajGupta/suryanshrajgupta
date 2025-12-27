@@ -130,3 +130,107 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF79C6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+
+<h1 align="center">Hi 👋, I'm Suryansh Raj Gupta</h1>
+<h3 align="center">Senior Full Stack & Mobile App Developer | 12+ Years Experience</h3>
+
+---
+
+## 🔗 Quick Links
+<p align="left">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
+  </a>
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ About Me
+- 🚀 Senior Software Engineer with **12+ years in Web & Full-Stack Development**
+- 📱 **10+ years of Mobile App Development** (Android, iOS, React Native, Flutter)
+- 🧠 Strong in **legacy code rescue, debugging & architecture**
+- 👨‍💻 Most of my work revolves around **SaaS, Startups & Scalable Products**
+- 💬 Reach me fastest on **Instagram / WhatsApp**
+- 🛠️ Building real-world products — check my repositories below
+
+---
+
+## 📌 Todo
+- ✅ Deliver high-quality client projects
+- ✅ Mentor teams & junior developers
+- 🔄 Open-source contributions
+- 🚀 Build more AI-powered SaaS tools
+
+---
+
+## 💻 Tech Stack
+
+### 🧩 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,php,html,css,react,nextjs,nodejs,nestjs,flutter" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,linux,docker" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,firebase" />
+</p>
+
+---
+
+## 🌐 Profile Links
+<p>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://wa.me/yourwhatsapp"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+## ☕ Support Me
+<a href="https://buymeacoffee.com/yourusername">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourusername&button_colour=FFDD00&font_colour=000000" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+## 🔥 Profile Views
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+<h3 align="center">🚀 Building scalable products. Solving real problems.</h3>

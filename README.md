@@ -66,35 +66,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,firebase" />
 </p>
 
-
-## 🧠 Tech Stack
-
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-FF79C6?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-8BE9FD?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/HTML5-FF5555?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-50FA7B?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/React-8BE9FD?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-</p>
-
-### 📱 Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/React_Native-FF79C6?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Expo-8BE9FD?style=for-the-badge&logo=expo" />
-  <img src="https://img.shields.io/badge/Flutter-50FA7B?style=for-the-badge&logo=flutter" />
-</p>
-
-### 🎨 UI / Styling & Tools
-<p>
-  <img src="https://img.shields.io/badge/Sass-FF79C6?style=for-the-badge&logo=sass" />
-  <img src="https://img.shields.io/badge/MUI-8BE9FD?style=for-the-badge&logo=mui" />
-  <img src="https://img.shields.io/badge/Styled_Components-50FA7B?style=for-the-badge&logo=styled-components" />
-  <img src="https://img.shields.io/badge/Git-FF5555?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman" />
-</p>
-
 <!-- ===================== DIVIDER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80" />

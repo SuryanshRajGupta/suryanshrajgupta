@@ -98,6 +98,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/suryanshrajgupta" target="_blank">
+    <img src="https://img.shields.io/github/followers/suryanshrajgupta?label=Follow&style=social" />
+  </a>
   <a href="https://www.linkedin.com/in/suryanshrajgupta">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -112,6 +115,9 @@
   </a>
   <a href="https://twitter.com/suryanshrajgupt">
     <img src="https://img.shields.io/badge/Twitter-8BE9FD?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:suryanshraj2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -133,29 +139,5 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF79C6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-
-<h1 align="center">Hi 👋, I'm Suryansh Raj Gupta</h1>
-<h3 align="center">Senior Full Stack & Mobile App Developer | 12+ Years Experience</h3>
-
----
-
-## 🔗 Quick Links
-<p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 <h3 align="center">🚀 Building scalable products. Solving real problems.</h3>

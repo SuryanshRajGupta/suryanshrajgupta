@@ -8,24 +8,17 @@
   <img src="https://komarev.com/ghpvc/?username=suryanshrajgupta&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90" />
-</p>
-
 ## 👩‍💻 About Me
 
-🚀 Software Engineer with **2+ years in Web, Full Stack Development & Mobile App Development**
-🧠 Strong in **legacy code rescue, debugging & architecture**
-👨‍💻 Most of my work revolves around **SaaS, Startups & Scalable Products**
-💬 Reach me fastest on **Instagram / WhatsApp**
-🛠️ Building real-world products — check my repositories below
-🌸 Passionate **Web & Mobile App Developer** with strong fundamentals  
-🖤 Love building **clean UI + interactive experiences**  
-🌱 Currently learning **Artificial Intelligence & Machine Learning basics**
-<br>
-📍 New Delhi, India  
+- 🚀 Software Engineer with **2+ years in Web, Full Stack Development & Mobile App Development**
+- 🧠 Strong in **legacy code rescue, debugging & architecture**
+- 👨‍💻 Most of my work revolves around **SaaS, Startups & Scalable Products**
+- 💬 Reach me fastest on **Instagram / WhatsApp**
+- 🛠️ Building real-world products — check my repositories below
+- 🌸 Passionate **Web & Mobile App Developer** with strong fundamentals  
+- 🖤 Love building **clean UI + interactive experiences**  
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning basics**
+- 📍 New Delhi, India  
 
 ✨ *Consistency > Motivation*
 
@@ -38,11 +31,6 @@
 - 🚀 Build more AI-powered SaaS tools
 
 ---
-
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff79c6,50:8be9fd,100:50fa7b&height=70" />
-</p>
 
 ## 💻 Tech Stack
 
